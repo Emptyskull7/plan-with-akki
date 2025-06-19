@@ -1,15 +1,15 @@
-# Plan With Akki
+# 🗺️ Plan With Akki
 
 Plan With Akki is a React-based web application that allows users to explore and manage a curated list of travel destinations across India. Users can read more about each destination, remove destinations they are not interested in, and refresh the list to start over.
 
-## Features
+## ✨ Features
 
-- **View Destinations:** Browse a list of beautiful travel destinations, each with an image, name, price, and description.
-- **Read More / Show Less:** Expand or collapse the description for each destination to read more details.
-- **Remove Destinations:** Remove destinations you are not interested in from the list.
-- **Refresh List:** If all destinations are removed, easily refresh the list to restore all destinations.
+- 🏞️ **View Destinations:** Browse a list of beautiful travel destinations, each with an image, name, price, and description.
+- 📖 **Read More / Show Less:** Expand or collapse the description for each destination to read more details.
+- ❌ **Remove Destinations:** Remove destinations you are not interested in from the list.
+- 🔄 **Refresh List:** If all destinations are removed, easily refresh the list to restore all destinations.
 
-## Project Structure
+## 🗂️ Project Structure
 
 ```
 plan-with-akki/
@@ -34,14 +34,14 @@ plan-with-akki/
 - [`src/index.js`](src/index.js): Entry point for the React app.
 - [`src/index.css`](src/index.css): Styles for the application.
 
-## Getting Started
+## 🚀 Getting Started
 
-### Prerequisites
+### 🛠️ Prerequisites
 
 - [Node.js](https://nodejs.org/) (v14 or higher recommended)
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 
-### Installation
+### 📦 Installation
 
 1. **Clone the repository:**
    ```sh
@@ -54,7 +54,7 @@ plan-with-akki/
    npm install
    ```
 
-### Running the Application
+### ▶️ Running the Application
 
 Start the development server:
 
@@ -64,7 +64,7 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
-### Building for Production
+### 🏗️ Building for Production
 
 To create a production build:
 
@@ -72,22 +72,22 @@ To create a production build:
 npm run build
 ```
 
-## Usage
+## 📝 Usage
 
-- Browse the list of destinations.
-- Click **Read More** to expand the description, or **Show Less** to collapse it.
-- Click **Not Interested** to remove a destination from the list.
-- If all destinations are removed, click **Refresh** to restore the full list.
+- 🏝️ Browse the list of destinations.
+- 📖 Click **Read More** to expand the description, or **Show Less** to collapse it.
+- ❌ Click **Not Interested** to remove a destination from the list.
+- 🔄 If all destinations are removed, click **Refresh** to restore the full list.
 
-## Customization
+## 🧩 Customization
 
-- To add or modify destinations, edit the [`src/data.js`](src/data.js) file.
-- To update styles, modify [`src/index.css`](src/index.css).
+- ✏️ To add or modify destinations, edit the [`src/data.js`](src/data.js) file.
+- 🎨 To update styles, modify [`src/index.css`](src/index.css).
 
-## License
+## 📄 License
 
 This project is for educational purposes.
 
 ---
 
-**Enjoy planning your next trip with
+**🌏 Enjoy planning your next trip with Plan With
